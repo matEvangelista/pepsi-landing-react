@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/pepsi-landing-react/static/js/main.966d1561.js",
+    "static/js/787.24fdd02f.chunk.js": "/pepsi-landing-react/static/js/787.24fdd02f.chunk.js",
+    "static/media/pepsi_black.png": "/pepsi-landing-react/static/media/pepsi_black.dca2ee630e19bfb05e0b.png",
+    "static/media/pepsi_silver.png": "/pepsi-landing-react/static/media/pepsi_silver.4721b27831ce6a551c42.png",
+    "static/media/pepsi_blue.png": "/pepsi-landing-react/static/media/pepsi_blue.f85675c6321cfae2e0b6.png",
+    "index.html": "/pepsi-landing-react/index.html",
+    "main.966d1561.js.map": "/pepsi-landing-react/static/js/main.966d1561.js.map",
+    "787.24fdd02f.chunk.js.map": "/pepsi-landing-react/static/js/787.24fdd02f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.966d1561.js"
+  ]
+}
