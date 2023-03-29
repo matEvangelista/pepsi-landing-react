@@ -1,21 +1,21 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Pepsi Page",
+  "name": "Pepsi Landing Page",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "any",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "favicon.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "any"
     },
     {
-      "src": "logo512.png",
+      "src": "facivon.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "any"
     }
   ],
   "start_url": ".",
